@@ -1,5 +1,5 @@
 {
-  "AdminUrl": "https://t.me/dp_mods",
+  "AdminUrl": "https://mdtanvirulislam.netlify.app",
   "Marquee": "Message the admin to buy a VIP key. Only paid users allowed.",
   "Users": [
     {
@@ -11,8 +11,8 @@
       "Expiry": "01/01/2025"
     },
     {
-      "ID": "bbbbjjj",
-      "Expiry": "28/12/2025"
+      "ID": "F82E8DF1D9140C6E",
+      "Expiry": "28/12/2026"
     }
   ]
 }
