@@ -3,7 +3,7 @@
 "banned_devices": [
 "DEVICE_ID_1",
 "DEVICE_ID_2",
-"f82e8df1d9140c6e"
+"f82e8df1d9140c6"
 ],
 "custom_ban_title": "Device Banned",
 "custom_ban_message": "Your device has been blocked by administrator."
