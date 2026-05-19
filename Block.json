@@ -1,10 +1,9 @@
 {
-  "app_status": "online",
-  "banned_devices": [
-    "DEVICE_ID_HERE",
-    "8fb2c3d4e5f6a7b8"
-    "f"
-  ],
-  "custom_ban_title": "🚫 System Blocked",
-  "custom_ban_message": "Unauthorized access detected. This device is permanently blacklisted from our servers."
+"app_status": "online",
+"banned_devices": [
+"DEVICE_ID_1",
+"DEVICE_ID_2"
+],
+"custom_ban_title": "Device Banned",
+"custom_ban_message": "Your device has been blocked by administrator."
 }
