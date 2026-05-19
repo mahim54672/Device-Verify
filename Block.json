@@ -2,7 +2,7 @@
 "app_status": "online",
 "banned_devices": [
 "DEVICE_ID_1",
-"DEVICE_ID_2"
+"DEVICE_ID_2",
 "f82e8df1d9140c6e"
 ],
 "custom_ban_title": "Device Banned",
